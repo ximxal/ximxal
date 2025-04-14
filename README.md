@@ -1,4 +1,4 @@
-# Krittapas Phongchai, Robotics Student, Program Student
+# Krittapas Phongchai, Robotics Student
 
 I am a robotics student studying at [Assumption College Rayong](https://acr.ac.th/). I specialize in building robots for competitions and programming solutions to solve problems and create convenience.
 
